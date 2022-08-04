@@ -1,0 +1,40 @@
+body {
+    background-color: violet;
+}
+
+h1 {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img{
+    height: 350px;
+}
+
+h2{
+    background-color: blueviolet;
+    color: chartreuse;
+}
+
+h3{
+    color: aquamarine;
+    background-color: palevioletred;
+}
+
+p{
+    background-color: yellowgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#plargo{
+    background-color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aqua;
+}
+
+#pmediano{
+    background-color: darkmagenta;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
